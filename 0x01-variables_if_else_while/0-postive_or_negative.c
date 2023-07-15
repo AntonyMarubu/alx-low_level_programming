@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* 
+/**
  * main - Determine if a random number is negative, positive or zero
  * Return: 0 on success
- * */
+ */
 int main(void)
 {
 	int n;
